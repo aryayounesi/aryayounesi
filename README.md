@@ -26,10 +26,10 @@ sometimes I tell kids to do such and such in social rooms and I give rude behavi
 also, I can't understand why Opensource community ended up here, what really happened? in any case, opensource community is alive by collaboration, unity and contribution. we should continue that. 
 Furthermore, please use **GNU/Linux** everywhere if you mean the OS, not specifically the Kernel; let's give proper courtesy to GNU developers who do a great job and not only no one recall the names but also we eliminate the indicator acronym, **GNU**, from our words. 
 *end of preaching*
+------------------
 
 
-
-is it enough? I think so.
+<sub>Is it enough? I think so. thanks for reading</sub>
 
 
 
