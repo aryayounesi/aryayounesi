@@ -17,7 +17,8 @@ reasons for being here aren't known even for myself, but I give it a try. during
 Other reason was that I lost many works which left me with time, gloomy mood and wondering. thus, I thought it's time to do some codes and help youngers through it. I'm doing the former, and had some personal projects on the go (personal because never think of programming as a source of income, and still I don't, perhaps I should do it); but the latter, was a failure. nowadays kids aren't like the way we were; when you tell them something either ignore you or offer some offensive words. I don't know why they should be like that. 
 
 ## future plans
-now I'm working on some personal projects, with no sponsors, about building a website for **free teaching** about `programming` and **GNU/Linux**, and a platform, perhaps tools too, for **kids with special needs** to learn GNU/Linux and finally coding. these kids left out, has no voice and no one wants to give them powerful tools to make thier way through this world of codes. I couldn't fullfil it certainly but I want to try my best. also I want to give academic people a few things to build websites and things for theirselves, not like the way let say CMSs do it. 
+now I'm working on some personal projects, with no sponsors, about building a website for **free teaching** about `programming` and **GNU/Linux**, and a platform, perhaps tools too, for **kids with special needs** to learn GNU/Linux and finally coding. 
+These kids left out, has no voice and no one wants to give them powerful tools to make thier way through this world of codes. I couldn't fullfil it certainly but I want to try my best. also I want to give academic people a few things to build websites and things for theirselves, not like the way let say CMSs do it. 
 
 ## My Preferred Code of Conduct
 you're right, see such a title here is strange; actually I cheated. I want to use this opportunity to preach! sorry. 
