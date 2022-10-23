@@ -24,6 +24,10 @@ you're right, see such a title here is strange; actually I cheated. I want to us
 since I was teenager and active in programming communities, things have changed vigorously. now I'm seeing some, not all, programmers who are experts on being arrogant and look over people, including myself; perhaps because my academic field isn't computer science. they do the same to others. that's unbearable because the world of 0/1 is multidisciplinary and it's possible for all to participate, actually it's necessary. some may say: "true; but you studied something else". that's correct but there are good examples Chomsky's contribution to compilers, John McFarlane with his great tools, `PanDoc` would be enough. plus, there is a way to be polymath, however you lost many pleasing things foreever. 
 sometimes I tell kids to do such and such in social rooms and I give rude behavior from developers; guys I'm suffering from insomnia from my juvenile. instead of pure suffering I change it to a way of learning: when I'm tired and can't sleep just study interesting things so that time you were sleeping or in a date I was do something else. it's not easy, whoever knows what really is insomnia, unlike the shinny name, knows how you feeling. to name one it's more than three years I'm dealing with a chronic dry eye syndrome. 
 also, I can't understand why Opensource community ended up here, what really happened? in any case, opensource community is alive by collaboration, unity and contribution. we should continue that. 
+Furthermore, please use **GNU/Linux** everywhere if you mean the OS, not specifically the Kernel; let's give proper courtesy to GNU developers who do a great job and not only no one recall the names but also we eliminate the indicator acronym, **GNU**, from our words. 
+*end of preaching*
+
+
 
 is it enough? I think so.
 
