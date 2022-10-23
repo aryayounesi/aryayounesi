@@ -21,10 +21,17 @@ generally speaking I'm not fan of social platforms, because social platforms are
 reasons for being here aren't known even for myself, but I give it a try. during COVID-19 pandemic working from home cause a lot of spare time. also, all people relied on IT more than ever; I had seen many people have problem with IT matters which showed we should step in and fortified people with computer sciences. we all need it to handle machines, if not the machines will handle us and cancel our choices.
 I am seeing young guys who are learning programming, as far as I can see the way they receive teachings is doomed; since everywhere is full of nonsense:
 > C is such and such, memory leak and things ...
+
 True, but still it could be used for embedded systems, employed as educational language, as many post-C languages mimic it's syntax and semantics if someone knows C, they knows a portion of many language.
+
 > PHP ouches ... 
+
 This one could be justified at its face value, so I'm not going to say anything about it. However, a half of those people promote JS; I, for one, never understand the unique merits of JS, also I remember the controversy and competition between Netscape and MS. JS push junior developers to focus on messy designs with a lot of security problems, as well as lazy JS syntax make them bad coders that wouldn't pay attention to writing well-formed, tidy, and clear codes; I may be on the wrong side though but used my freedom of speech here.
-cyber security? tell me what is that! so tutors just teach JS with no CS concerns, focusing only on shiny design with a lot of assets, promoting dead languages like VB DotNet. finally, the saddest part: an army of teenagers who love hacking, not the white or red way; while they had better to love making some applications, they love to ruining applications. 
+
+> cyber security? tell me what is that! 
+
+When **cyber security** undermined we should run.
+so tutors just teach JS with no CS concerns, focusing only on shiny design with a lot of assets, promoting dead languages like VB DotNet. finally, the saddest part: an army of teenagers who love hacking, not the white or red way; while they had better to love making some applications, they love to ruining applications. 
 Other reason was that I lost many works which left me with time, gloomy mood and wondering. thus, I thought it's time to do some codes and help youngers through it. I'm doing the former, and had some personal projects on the go (personal because never think of programming as a source of income, and still I don't, perhaps I should do it); but the latter, was a failure. nowadays kids aren't like the way we were; when you tell them something either ignore you or offer some offensive words. I don't know why they should be like that. 
 
 ## future plans 
