@@ -29,7 +29,7 @@ Furthermore, please use **GNU/Linux** everywhere if you mean the OS, not specifi
 ------------------
 
 
-<sub>Is it enough? I think so. thanks for reading</sub>
+<sub>Is it enough? I think so. thanks for reading</sub> 
 
 
 
