@@ -1,6 +1,7 @@
 # About Me
 I am Arya Younesi in the middle of my fourth decades of my life; born and live in Iran.
-I'm going to write a few words about myself and if you think you'll read an interesting peace of writing, perhaps you are in wrong way; since you will read a boring life.
+I'm going to write a few words about myself and if you think you'll read an interesting peace of writing, perhaps you are in wrong way; since you will read a boring life. 
+
 <Sub> so reading discretion recommended; since you many spend your precious time on reading about a meaningless life.</sub>
 
 ## A life Through
