@@ -2,7 +2,7 @@
 I am Arya Younesi in the middle of my fourth decades of my life; born and live in Iran.
 I'm going to write a few words about myself and if you think you'll read an interesting peace of writing, perhaps you are in wrong way; since you will read a boring life. 
 
-<Sub> so reading discretion recommended; since you many spend your precious time on reading about a meaningless life.</sub>
+<Sub> so reading discretion recommended; since you may spend your precious time on reading about a meaningless life.</sub>
 
 ## A life Through
 my favorite is `C` for sure, and `PHP` for websites and things (I know its limits and problems but still it's good). I am a fan of **Fedora GNU/Linux** for many reasons and using it. 
