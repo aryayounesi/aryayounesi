@@ -12,8 +12,8 @@ if you want to read about me, which is strange as why should I would be an inter
 In addition, I am from a philosophic background, hence you would not find statements like:
 
 > _I'm curious about learning new things._
-> _learning never would be enough._
-> _I like to work in a team._
+_learning never would be enough._
+_I like to work in a team._
 
 I, for one, may have such features but what is the reason for mentioning them? especially, when **language makes lies possible**. All those who does not have those habits can say that.
 
