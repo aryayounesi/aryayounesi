@@ -17,7 +17,7 @@ In addition, I am from a philosophic background, hence you would not find statem
 
 >I like to work in a team.
 
-I, for one, may have such features but what is the reason for mentioning them? especially, when **language makes lies possible**. All those who does not have those habits can say that.
+I, for one, may have such psychological traits but what is the reason for mentioning them? especially, when **language makes lies possible**. All those who does not have those habits can say that.
 
 ## Rights of People with No Voice
 
