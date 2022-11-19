@@ -11,9 +11,11 @@ My primary focus is on something other than developing application, I do want to
 if you want to read about me, which is strange as why should I would be an interesting _rational animal_ as Aristotle used to define humans like that, you can find a note [here](/pages/AboutMe.md); Reading discretion recommended; since you may spend your precious time on reading about a meaningless life.
 In addition, I am from a philosophic background, hence you would not find statements like:
 
-> _I'm curious about learning new things._
-_learning never would be enough._
-_I like to work in a team._
+>I'm curious about learning new things.
+
+>learning never would be enough.
+
+>I like to work in a team.
 
 I, for one, may have such features but what is the reason for mentioning them? especially, when **language makes lies possible**. All those who does not have those habits can say that.
 
