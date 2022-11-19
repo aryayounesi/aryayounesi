@@ -8,7 +8,7 @@ My primary focus is on something other than developing application, I do want to
 
 ## About Me
 
-if you want to read about me, which is strange as why should I would be an interesting _rational animal_ as Aristotle used to define humans like that, you can find a note [here](/home/ay/clones/aryayounesi/pages/AboutMe.md); Reading discretion recommended; since you may spend your precious time on reading about a meaningless life. 
+if you want to read about me, which is strange as why should I would be an interesting _rational animal_ as Aristotle used to define humans like that, you can find a note [here](/pages/AboutMe.md); Reading discretion recommended; since you may spend your precious time on reading about a meaningless life.
 In addition, I am from a philosophic background, hence you would not find statements like:
 
 > _I'm curious about learning new things._
